@@ -44,5 +44,4 @@ If you use this deep learning model or the code in your research, please cite th
 
 For any inquiries or assistance, please contact the corresponding authors:
 
-- DK. Ming (email: dk.ming@example.com)
-- AH. Holmes (email: ah.holmes@example.com)
+- Damien K. Ming (email: d.ming@imperial.ac.uk)
