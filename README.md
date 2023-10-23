@@ -4,19 +4,17 @@
 
 by *Damien K. Ming, Paul Vasikasin, Timothy M. Rawson, Pantelis Georgiou, Frances J. Davies, Bernard Hernandez, and Alison H. Holmes.*
 
-### Affiliations
-
-- > Centre for Antimicrobial Optimisation, Imperial College London
-- > Healthcare Protection Research Unit in Healthcare Associated Infections, Imperial College London
-- Imperial College Healthcare NHS Trust
-- Centre for Bio-inspired Technology, Imperial College London
-- Department of Global Health and Infectious Diseases, University of Liverpool
+- *Centre for Antimicrobial Optimisation, Imperial College London*
+- *Healthcare Protection Research Unit in Healthcare Associated Infections, Imperial College London*
+- *Imperial College Healthcare NHS Trust*
+- *Centre for Bio-inspired Technology, Imperial College London*
+- *Department of Global Health and Infectious Diseases, University of Liverpool*
 
 This paper has been submitted for publication in *Some Journal*.
 
 We sought to develop models which could offer adjunctive decision support for BSI management alongside existing diagnostics. 
 Utilising data from a diverse cohort of hospitalised patients undergoing blood cultures at Imperial College NHS Trust, London (n=20,850), 
-we trained deep learning models with routinely-collected longitudinal biomarker data to predict BSIs at assessment. Performance in 
+we trained **deep learning** models with **routinely-collected longitudinal biomarker data to predict BSIs** at assessment. Performance in 
 prospective evaluation (n=5,638) was associated with an area under the receiver operator curve of 0.97 (95% confidence interval 0.96-0.97) 
 and significantly better compared to time-invariant approaches.
 
