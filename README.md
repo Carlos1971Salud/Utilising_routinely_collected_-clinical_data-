@@ -1,6 +1,9 @@
 # dkm-bsi-dl
 
-## Time to reconsider the management of bacterial bloodstream infections? A deep learning model utilising longitudinal biomarkers to predict blood culture outcomes
+Update XX/XX/XXXX: Description
+Update 23/10/2023: Creation of repository
+
+### Time to reconsider the management of bacterial bloodstream infections? A deep learning model utilising longitudinal biomarkers to predict blood culture outcomes
 
 by *Damien K. Ming, Paul Vasikasin, Timothy M. Rawson, Pantelis Georgiou, Frances J. Davies, Bernard Hernandez, and Alison H. Holmes.*
 
@@ -44,13 +47,13 @@ To get started with the deep learning model and replicate the experiments descri
 
 This project is licensed under the GNUv3 License - see the [LICENSE](LICENSE) file for details.
 
-### Acknowledgments
+<!-- ### Acknowledgments -->
 
 ### Citing
 
 If you use this deep learning model or the code in your research, please cite the original article:
 
-[comment]: <> [Link to the Article](https://example.com/article)
+<!-- [Link to the Article](https://example.com/article) -->
 
 ### Contact
 
