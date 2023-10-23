@@ -18,11 +18,11 @@ by *[Damien K. Ming](https://www.imperial.ac.uk/people/d.ming),
 - *Centre for Bio-inspired Technology, Imperial College London*
 - *Department of Global Health and Infectious Diseases, University of Liverpool*
 
-This [paper]() has been submitted for publication in *"Journal"*.
+This [paper]() has been submitted for publication in `*"Journal"*`.
 
 We sought to develop models which could offer adjunctive decision support for BSI management alongside existing diagnostics. 
 Utilising data from a diverse cohort of hospitalised patients undergoing blood cultures at Imperial College NHS Trust, London (n=20,850), 
-we trained **deep learning** models with **routinely-collected longitudinal biomarker data to predict BSIs** at assessment. Performance in prospective evaluation (n=5,638) was associated with an area under the receiver operator curve of 0.97 (95% confidence interval 0.96-0.97) and significantly better compared to time-invariant approaches.
+we trained `**deep learning**` models with **routinely-collected longitudinal biomarker data to predict BSIs** at assessment. Performance in prospective evaluation (n=5,638) was associated with an area under the receiver operator curve of 0.97 (95% confidence interval 0.96-0.97) and significantly better compared to time-invariant approaches.
 
 <!-- ![](manuscript/figures/hawaii-trend.png) -->
 <!-- *Caption for the example figure with the main results.* -->
