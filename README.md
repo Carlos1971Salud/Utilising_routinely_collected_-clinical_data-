@@ -5,12 +5,12 @@ Update XX/XX/XXXX: Description <br>
 ### Time to reconsider the management of bacterial bloodstream infections? A deep learning model utilising longitudinal biomarkers to predict blood culture outcomes
 
 by *[Damien K. Ming](https://www.imperial.ac.uk/people/d.ming), 
-     Paul Vasikasin, 
-     [Timothy M. Rawson](https://www.imperial.ac.uk/people/timothy.rawson07), 
-     Pantelis Georgiou, 
-     Frances J. Davies, 
-     [Bernard Hernandez](https://bahp.github.io/portfolio-academic/), 
-     and Alison H. Holmes.*
+    [Paul Vasikasin](https://www.imperial.ac.uk/people/p.vasikasin20), 
+    [Timothy M. Rawson](https://www.imperial.ac.uk/people/timothy.rawson07), 
+    [Pantelis Georgiou](https://www.imperial.ac.uk/people/pantelis), 
+    [Frances J. Davies](https://www.imperial.ac.uk/people/f.davies), 
+    [Bernard Hernandez](https://bahp.github.io/portfolio-academic/), and 
+    [Alison H. Holmes](https://www.liverpool.ac.uk/systems-molecular-and-integrative-biology/staff/alison-holmes/).*
 
 - *Centre for Antimicrobial Optimisation, Imperial College London*
 - *Healthcare Protection Research Unit in Healthcare Associated Infections, Imperial College London*
