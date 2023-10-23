@@ -13,10 +13,10 @@ by *[Damien K. Ming](https://www.imperial.ac.uk/people/d.ming),
     [Alison H. Holmes](https://www.liverpool.ac.uk/systems-molecular-and-integrative-biology/staff/alison-holmes/).*
 
 - <sub>*Centre for Antimicrobial Optimisation, Imperial College London*</sub>
-- *Healthcare Protection Research Unit in Healthcare Associated Infections, Imperial College London*
-- *Imperial College Healthcare NHS Trust*
-- *Centre for Bio-inspired Technology, Imperial College London*
-- *Department of Global Health and Infectious Diseases, University of Liverpool*
+- <sub>*Healthcare Protection Research Unit in Healthcare Associated Infections, Imperial College London*</sub>
+- <sub>*Imperial College Healthcare NHS Trust*</sub>
+- <sub>*Centre for Bio-inspired Technology, Imperial College London*</sub>
+- <sub>*Department of Global Health and Infectious Diseases, University of Liverpool*</sub>
 
 This [paper]() has been submitted for publication in *"Journal"*.
 
