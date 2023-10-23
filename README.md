@@ -1,18 +1,8 @@
 # dkm-bsi-dl
 
-# Deep Learning Model for Predicting Blood Culture Outcomes
+# Time to reconsider the management of bacterial bloodstream infections? A deep learning model utilising longitudinal biomarkers to predict blood culture outcomes
 
-This repository contains the code and resources for the deep learning model described in the article titled "Time to reconsider the management of bacterial bloodstream infections? A deep learning model utilising longitudinal biomarkers to predict blood culture outcomes" by DK. Ming, V Vasikasin, TM. Rawson, Pantelis Georgiou, FJ. Davies, B. Hernandez, and AH. Holmes.
-
-## Authors
-
-- Damien K. Ming
-- V Vasikasin
-- TM. Rawson
-- Pantelis Georgiou
-- FJ. Davies
-- B. Hernandez
-- AH. Holmes
+by Damien K. Ming, Paul Vasikasin, Timothy M. Rawson, Pantelis Georgiou, Frances J. Davies, Bernard Hernandez, and Alison H. Holmes.
 
 ## Affiliations
 
