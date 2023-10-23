@@ -6,8 +6,8 @@ by *Damien K. Ming, Paul Vasikasin, Timothy M. Rawson, Pantelis Georgiou, France
 
 ### Affiliations
 
-- Centre for Antimicrobial Optimisation, Imperial College London
-- Healthcare Protection Research Unit in Healthcare Associated Infections, Imperial College London
+- > Centre for Antimicrobial Optimisation, Imperial College London
+- > Healthcare Protection Research Unit in Healthcare Associated Infections, Imperial College London
 - Imperial College Healthcare NHS Trust
 - Centre for Bio-inspired Technology, Imperial College London
 - Department of Global Health and Infectious Diseases, University of Liverpool
