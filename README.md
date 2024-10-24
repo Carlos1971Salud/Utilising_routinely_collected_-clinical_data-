@@ -2,23 +2,24 @@
 
 Update XX/XX/XXXX: Description <br>
 
-### Time to reconsider the management of bacterial bloodstream infections? A deep learning model utilising longitudinal biomarkers to predict blood culture outcomes
+### Utilising routinely collected clinical data through time series deep learning to improve identification of bacterial bloodstream infections: a retrospective cohort study
 
 by *[Damien K. Ming](https://www.imperial.ac.uk/people/d.ming), 
     [Paul Vasikasin](https://www.imperial.ac.uk/people/p.vasikasin20), 
     [Timothy M. Rawson](https://www.imperial.ac.uk/people/timothy.rawson07), 
     [Pantelis Georgiou](https://www.imperial.ac.uk/people/pantelis), 
     [Frances J. Davies](https://www.imperial.ac.uk/people/f.davies), 
-    [Bernard Hernandez](https://bahp.github.io/portfolio-academic/), and 
-    [Alison H. Holmes](https://www.liverpool.ac.uk/systems-molecular-and-integrative-biology/staff/alison-holmes/).*
+    [Alison H. Holmes](https://www.liverpool.ac.uk/systems-molecular-and-integrative-biology/staff/alison-holmes/), and
+    [Bernard Hernandez](https://bahp.github.io/portfolio-academic/).*
 
 - *Centre for Antimicrobial Optimisation, Imperial College London*
+- *Department of Internal Medicine, Phramongkutklao Hospital and College of Medicine, Bangkok, Thailand*
 - *Healthcare Protection Research Unit in Healthcare Associated Infections, Imperial College London*
 - *Imperial College Healthcare NHS Trust*
 - *Centre for Bio-inspired Technology, Imperial College London*
 - *Department of Global Health and Infectious Diseases, University of Liverpool*
 
-This [paper]() has been submitted for publication in *"Journal"*.
+This [paper]() has been submitted for publication in *"The Lancet Digital Health"*.
 
 We sought to develop models which could offer adjunctive decision support for BSI management alongside existing diagnostics. 
 Utilising data from a diverse cohort of hospitalised patients undergoing blood cultures at Imperial College NHS Trust, London (n=20,850), 
