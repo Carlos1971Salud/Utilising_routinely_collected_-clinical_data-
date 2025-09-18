@@ -60,3 +60,14 @@ If you use this deep learning model or the code in your research, please cite th
 For any inquiries or assistance, please contact the corresponding authors:
 
 - Damien K. Ming (email: d.ming@imperial.ac.uk)
+
+
+Utilising routinely collected clinical data through time series deep learning to improve identification of bacterial bloodstream infections: a retrospective cohort study
+Ming, Damien K et al.
+The Lancet Digital Health, Volume 7, Issue 3, e205 - e215
+https://www.thelancet.com/journals/landig/article/PIIS2589-7500(25)00010-X/fulltext
+
+
+
+
+
